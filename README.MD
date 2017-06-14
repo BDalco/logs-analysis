@@ -19,7 +19,7 @@ Virtual Environment Setup:
 
 1. Ensure Vagrant, Virtual Box and Python are installed on your machine.
 2. Clone the Udacity fullstack-nanodegree-vm -> https://github.com/udacity/fullstack-nanodegree-vm
-3. Clone (or download) this repo into the /vagrant directory -> 
+3. Clone (or download) this repo into the /vagrant directory -> https://github.com/BDalco/logs-analysis
 4. Download and unzip the newsdata.sql data file -> https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
 5. Extract zip contents into cloned /vagrant/logs-analysis directory
 6. Launch the VM:
