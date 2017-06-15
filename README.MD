@@ -32,5 +32,5 @@ Virtual Environment Setup:
 9. Load the data into the news database already in the VM:
   • $psql -d news -f newsdata.sql
 10. Run python report script:
-  • $ python logs_analysis.py
+  • $ python logsanalysis.py
 
